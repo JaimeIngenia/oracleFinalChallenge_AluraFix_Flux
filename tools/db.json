@@ -1,0 +1,60 @@
+{
+  "categoriasOracle": [
+    {
+      "id": 5,
+      "nombre": "Pincel Mágico",
+      "descripcion": "Un pincel que pinta cuadros que cobran vida",
+      "color": "Paleta de Sueños",
+      "codigoSeguridad": "ART1234"
+    },
+    {
+      "id": 6,
+      "nombre": "Zapatos Voladores",
+      "descripcion": "Calzado que te lleva a lugares lejanos con un paso",
+      "color": "Alas de Pies",
+      "codigoSeguridad": "FLY5678"
+    },
+    {
+      "id": 7,
+      "nombre": "Espejo Encantado",
+      "descripcion": "Un espejo que refleja tus deseos más profundos",
+      "color": "Reflejo Mágico",
+      "codigoSeguridad": "MIRR9012"
+    },
+    {
+      "id": 8,
+      "nombre": "Poción de la Risas",
+      "descripcion": "Una bebida que te hace reír incontrolablemente",
+      "color": "Burbujas Felices",
+      "codigoSeguridad": "LAUG3456"
+    },
+    {
+      "id": 9,
+      "nombre": "Sombrero de las Ideas",
+      "descripcion": "Un sombrero que te inspira con pensamientos brillantes",
+      "color": "Mente Creativa",
+      "codigoSeguridad": "IDEA7890"
+    },
+    {
+      "id": 10,
+      "nombre": "Pluma de las Historias",
+      "descripcion": "Una pluma que escribe cuentos épicos por sí sola",
+      "color": "Tinta de Imaginación",
+      "codigoSeguridad": "STORY1234"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
